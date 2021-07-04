@@ -37,9 +37,9 @@ export default {
     "#helpButton - learn more about the app":
         "#helpButton - à propos",
     "#optionsButton - see the available options":
-        "#helpButton - options disponibles",
+        "#optionsButton - options disponibles",
     "powered with":
-        "basé sur",
+        "propulsé par",
     "Drag & Drop a file here or click to choose manually":
         "Glisser-Déposer ici un fichier, ou cliquer pour le slectionner manuellement",
     "Paste a URL to a djvu file here":
